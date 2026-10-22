@@ -1,53 +1,61 @@
-# 👾 Hey, I'm Matrix!
+# 👾 Matrix
 
-### Software Developer | Backend Engineering | Exploring AI/ML & IoT
+**Software Developer | Backend Engineering | AI/ML & IoT**
 
-I build web applications, explore backend architecture, and learn by turning ideas into working software.
+Building useful software, learning systems engineering, and turning ideas into working projects.
 
-Currently strengthening my skills in **TypeScript, Node.js, PostgreSQL, and Python**, while exploring the intersection of **AI/ML, embedded systems, and IoT**.
+Currently focused on **TypeScript, Node.js, Python, PostgreSQL, and AI/ML**, while exploring embedded systems and Edge AI.
 
 ```js
 const matrix = {
-  role: "Software Developer",
-  currentlyLearning: ["Python", "Backend Engineering", "AI/ML"],
-  technologies: {
-    frontend: ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "TypeScript"],
-    database: ["PostgreSQL", "Supabase", "Prisma"],
-    exploring: ["IoT", "Embedded Systems", "Edge AI"]
-  },
-  goal: "Build useful software and become a stronger engineer"
+  focus: ["Backend Engineering", "Python", "AI/ML"],
+  exploring: ["IoT", "Embedded Systems", "Edge AI"],
+  motto: "Learn. Build. Ship. 🚀"
 };
-
-console.log("Building, learning, and shipping 🚀");
 ```
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages & Frontend
+### 💻 Languages & Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vite" alt="JavaScript, TypeScript, HTML, CSS, React, Tailwind CSS and Vite" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vite" alt="JavaScript, TypeScript, HTML, CSS, React, Tailwind CSS, Vite" />
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" alt="Node.js, Express, PostgreSQL, Prisma and Supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Node.js, Express, Python, FastAPI" />
 </p>
 
-### Tools & Development
+- **JavaScript / TypeScript:** Node.js, Express
+- **Python:** Backend fundamentals, file handling, CSV processing, data validation, and data analysis
+- **Python Libraries:** NumPy, Matplotlib, Requests
+- **API Development:** REST APIs, request handling, validation, and backend architecture
+
+### 🗄️ Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm" alt="Git, GitHub, Linux, VS Code and npm" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" alt="PostgreSQL, Supabase, Prisma" />
 </p>
 
-### Exploring Next
+### 🔌 IoT, Microcontrollers & Embedded Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi" alt="Python, Arduino and Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" alt="Arduino, Raspberry Pi, C, C++" />
+</p>
+
+- Exploring microcontrollers and embedded programming
+- Learning sensor data acquisition and processing
+- Exploring hardware-software integration
+- Working toward IoT systems and Edge AI / TinyML
+
+### 🛠️ Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm,bash" alt="Git, GitHub, Linux, VS Code, npm, Bash" />
 </p>
 
 ---
@@ -55,12 +63,14 @@ console.log("Building, learning, and shipping 🚀");
 ## 🚀 Featured Projects
 
 ### 🛍️ Multi-Ecommerce Backend
-A multi-store e-commerce backend project built with Node.js, TypeScript, Express, PostgreSQL, and Prisma.
+
+A multi-store e-commerce backend built with Node.js, TypeScript, Express, PostgreSQL, and Prisma.
 
 [View Repository →](https://github.com/matrixxxs/multi-ecommerce)
 
 ### 📚 StudyOS
-A personal study-tracking application focused on roadmaps, learning sessions, and progress tracking.
+
+A personal study-tracking application for learning roadmaps, study sessions, and progress tracking.
 
 [View Repository →](https://github.com/matrixxxs/StudyOS) · [Live Demo →](https://study-os-hazel.vercel.app)
 
@@ -85,15 +95,16 @@ A personal study-tracking application focused on roadmaps, learning sessions, an
 ## 🎯 Current Focus
 
 - Building maintainable backend APIs.
-- Improving database design and query skills.
+- Improving PostgreSQL database design and query performance.
 - Writing cleaner, more reliable TypeScript.
-- Learning Python for AI/ML and data processing.
-- Exploring embedded systems and Edge AI.
+- Strengthening Python for backend development and data processing.
+- Learning electronics, microcontrollers, and embedded systems.
+- Exploring AI/ML, Edge AI, and TinyML.
 
 ---
 
-### 💬 Let's Build Something
+## 💬 Let's Build Something
 
-I'm interested in collaborating on projects, learning from other developers, and contributing to meaningful software.
+Open to collaborating on interesting projects, learning with other developers, and building useful technology.
 
-**Always learning. Always building. 👾**
+**Learn. Build. Ship. 👾**
